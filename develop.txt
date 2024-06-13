@@ -1,1 +1,5 @@
-hi
+HELLO EVERYONE 
+my task is-
+1. Trigger a pipeline using Git when push on develop branch
+2. Pipeline should pull Git content to a folder
+
